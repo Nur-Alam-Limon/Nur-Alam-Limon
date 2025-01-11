@@ -5,11 +5,10 @@
 
 
 ### 👨‍💻 About Me  
-- 💻 I specialize in **full-stack development** using **React**, **Next.js**, **Node.js**, and **Firebase**.  
-- 🌱 Currently learning **cloud-native development** and **Shopify Hydrogen**.  
-- ⚡ I’m passionate about **eCommerce solutions**, **subscription management**, and **digital signal processing**.  
-- 💬 Ask me about **Shopify apps**, **Hydrogen**, **GA4 tracking**, or **Cypress testing**.  
-- 🎯 In my free time, I enjoy contributing to **open-source projects** and exploring **new frameworks**.  
+- 💻 I specialize in **full-stack development** using **React**, **Next.js**, and **Node.js**   
+- ⚡ I’m passionate about **eCommerce solutions**, **automate things using software**, and **develop websites**.  
+- 💬 Ask me about **Shopify apps**, **Frontend**, **Backend**.  
+- 🎯 In my free time, I enjoy exploring **new frameworks**.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
