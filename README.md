@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://github.com/nur-alam-limon/nur-alam-limon/blob/main/banner.png](https://www.canva.com/design/DAGo26kelO0/Y09d0z-Vld1Yr-JderhEdw/view?utm_content=DAGo26kelO0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0e0497328f)" alt="Nur Alam Chowdhury | Full Stack Developer" width="100%" />
+  <img src="https://i.ibb.co/S409Dd3X/Black-Modern-Personal-Linked-In-Banner.jpg" alt="Nur Alam Chowdhury | Full Stack Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nur Alam Chowdhury</h1>
